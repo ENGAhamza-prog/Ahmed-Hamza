@@ -2,9 +2,9 @@
 <h3 align="center">SEO & Performance Marketing Specialist 📈 | Technical SEO Auditor 🔬</h3>
 
 <p align="center">
-    <a href="[Your LinkedIn Profile URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="[https://www.linkedin.com/in/hamza1987]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="[Your X/Twitter Profile URL]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-    <a href="[Your Website/Blog URL (Optional)]"><img src="https://img.shields.io/badge/Website-Analyze%20Performace-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="[https://tiktokermasr.blogspot.com/ (Optional)]"><img src="https://img.shields.io/badge/Website-Analyze%20Performace-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
