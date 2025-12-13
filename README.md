@@ -26,8 +26,7 @@ const SEOSpecialist = {
     "Competitor & Content Analysis",
     "Performance Marketing"
   ]
-}; // تم تصحيح الإغلاق
-
+}; //
 ---
 
 ## 🔥 Top Expertise & Services
