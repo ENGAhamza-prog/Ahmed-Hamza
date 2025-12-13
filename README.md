@@ -1,10 +1,13 @@
-<h1 align="center">Hi, I'm [Ahmed Hamza] 👋</h1>
+<h1 align="center">Hi, I'm Ahmed Hamza 👋</h1>
 <h3 align="center">SEO & Performance Marketing Specialist 📈 | Technical SEO Auditor 🔬</h3>
 
 <p align="center">
-    <a href="[https://www.linkedin.com/in/hamza1987]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="[Your X/Twitter Profile URL]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-    <a href="[https://tiktokermasr.blogspot.com/ (Optional)]"><img src="https://img.shields.io/badge/Website-Analyze%20Performace-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/hamza1987"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.facebook.com/a.hamza87"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.instagram.com/coupon.hamza/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@coupons87"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.tiktok.com/@ahmed.hamza.87"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+    <a href="https://tiktokermasr.blogspot.com/"><img src="https://img.shields.io/badge/Blog-tiktokermasr-blueviolet?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
 ---
