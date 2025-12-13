@@ -71,8 +71,8 @@ const SEOSpecialist = {
 ## 🤝 Let's Connect
 
 إذا كنت تبحث عن استشارات تقنية أو شريك يمكنه تحويل بيانات موقعك المعقدة إلى نمو حقيقي في المبيعات والحركة:
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Professional Email]
+* **LinkedIn:** [https://www.linkedin.com/in/hamza1987]
+* **Email:** [ahamza.adx@gmail.com]
 
 ---
 
